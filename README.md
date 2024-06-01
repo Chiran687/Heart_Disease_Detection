@@ -1,6 +1,7 @@
 # Heart Disease Prediction
 
 This repository contains code for predicting heart disease based on a dataset of various medical attributes. The prediction model is trained using machine learning techniques and the resulting model (`model.pkl`) can be integrated into any application for real-time predictions.
+Please note that this is experimental and use this for learning purposes only.
 
 ## Dataset
 
